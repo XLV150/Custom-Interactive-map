@@ -6,7 +6,7 @@ import webbrowser
 f = folium.Figure(width=1000, height=500)
 m = folium.Map(location= [-28.4792625, 24.6727135], tiles="openstreetmap",zoom_start=6, min_zoom = 2).add_to(f)
 
-# STATION
+# POLICE STATION
 Staion1 = ['MITCHELLS PLAIN',
            'DURBAN CENTRAL',
            'KLEINVLEI',
